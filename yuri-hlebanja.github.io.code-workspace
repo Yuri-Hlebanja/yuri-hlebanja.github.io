@@ -1,7 +1,12 @@
 {
     "folders": [
         {
+            "name": "yuri-hlebanja.github.io",
             "path": "."
+        },
+        {
+            "name": "devportfolio-master",
+            "path": "../devportfolio-master"
         }
     ]
 }
